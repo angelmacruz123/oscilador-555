@@ -1,6 +1,6 @@
 # Oscilador Astable con Temporizador 555
 
-<img width="650" height="700" alt="image" src="https://github.com/user-attachments/assets/4d385127-f753-42e7-b1b7-2a3174c2bb56" />
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/4d385127-f753-42e7-b1b7-2a3174c2bb56" />
 
 
 
@@ -59,7 +59,7 @@ Diseñar y montar un circuito oscilador astable que genere una señal periódica
 \* Cables de conexión
 
 
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/d3684e8f-518c-4a75-9ac7-02ebf0483ada" />
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/d3684e8f-518c-4a75-9ac7-02ebf0483ada" />
 
 ---
 
