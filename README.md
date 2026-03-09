@@ -1,6 +1,6 @@
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/d27bf910-e89e-4d68-a797-5e6747215e19" />\# Oscilador Astable con Temporizador 555
+# Oscilador Astable con Temporizador 555
 
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/4d385127-f753-42e7-b1b7-2a3174c2bb56" />
+<img width="650" height="700" alt="image" src="https://github.com/user-attachments/assets/4d385127-f753-42e7-b1b7-2a3174c2bb56" />
 
 
 
