@@ -222,6 +222,8 @@ C = 10µF
 
 El resultado produce una frecuencia aproximada cercana a 1 Hz, lo que permite observar el parpadeo del LED de manera clara.
 
+Se puedde evidenciar el funcionamiento de este circuito en el siguente enlace https://youtube.com/shorts/DrsmZzHd2IQ?feature=share
+
 
 
 ---
